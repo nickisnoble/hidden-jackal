@@ -2,7 +2,7 @@ title: Strategy Presentation
 controls: false
 
 --
-# Strategy
+# Hidden Jackal
 ## How we make this happen
 --
 ### Primary Goals & Objectives
